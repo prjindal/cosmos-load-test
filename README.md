@@ -2,7 +2,9 @@
 Run Load Test Instructions
 
 git clone https://github.com/prjindal/cosmos-load-test.git
+
 cd cosmos-load-test
+
 mvn clean package
 
 export INITIAL_RESULTS_TO_SKIP=100
